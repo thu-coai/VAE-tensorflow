@@ -2,3 +2,5 @@ tensorboard
 model
 output
 __pycache__
+.vscode/
+upload.sh
